@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 streamlit
 yfinance
 pandas
@@ -7,4 +9,4 @@ stable-baselines3
 gymnasium
 gym-anytrading
 transformers
-torch --index-url https://download.pytorch.org/whl/cpu
+shimmy
