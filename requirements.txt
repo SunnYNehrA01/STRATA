@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+pandas-ta
+plotly
+stable-baselines3
+gymnasium
+gym-anytrading
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
